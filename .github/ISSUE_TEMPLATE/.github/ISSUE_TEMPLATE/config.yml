@@ -1,8 +1,0 @@
-blank_issues_enabled: false
-contact_links:
-    name: 🧑‍💼 Customer Support
-    url: https://yourcompanysupport.com
-    about: For urgent customer issues, please contact support.
-
-default_labels: ["needs-triage"]
-default_assignees: ["your-github-username"]
